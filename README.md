@@ -31,7 +31,7 @@ This Employee Management System is a web application built using Java Servlets a
 ### Steps
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/Guptarag/EmployeeManagementSystem.git
    
 2. Set up the MySQL database:
   Create a database called ems. In that database create a table employees. 
