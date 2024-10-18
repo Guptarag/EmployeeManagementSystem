@@ -6,7 +6,7 @@ This Employee Management System is a web application built using Java Servlets a
 
 ## Features
 
-- **Add Employee**: Insert new employee details into the system.
+- **Register Employee**: Register new employee details into the system.
 - **View Employee**: Display all employees along with their details.
 - **Update Employee**: Modify the information of existing employees.
 - **Delete Employee**: Remove an employee from the system.
