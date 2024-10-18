@@ -45,14 +45,16 @@ This Employee Management System is a web application built using Java Servlets a
 
 ## Screen Shots
 
-###Login Page
+### Login Page
 ![image](https://github.com/user-attachments/assets/fae9e527-d345-43b2-91b9-891bcb245521)
-###View all Employees Page
+
+### View all Employees Page
 ![image](https://github.com/user-attachments/assets/3ccf56c2-32a3-432f-a716-2293b7ca042e)
-###Updation Page
+
+### Updation Page
 ![image](https://github.com/user-attachments/assets/ea0fb5fd-faba-48d3-aaa8-d2ab994649ab)
 
-###Employees Table Attributes
+### Employees Table Attributes
 ![image](https://github.com/user-attachments/assets/7b2e861b-d54e-4603-9839-be061b2e0293)
 
 
